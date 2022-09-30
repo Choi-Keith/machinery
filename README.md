@@ -2,7 +2,7 @@
 [2]: https://raw.githubusercontent.com/RichardKnop/assets/master/machinery/example_worker_receives_tasks.png
 [3]: http://patreon_public_assets.s3.amazonaws.com/sized/becomeAPatronBanner.png
 
-## Machinery
+## Machinery(分布式异步作业系统)
 
 Machinery is an asynchronous task queue/job queue based on distributed message passing.
 
